@@ -21,8 +21,8 @@
 
 Dans le cadre du programme national d'orientation des parcours étudiants, j'ai participé à l'évolution technique de la plateforme ePortfolio. Mes contributions se sont concentrées sur l'interopérabilité des services et la modernisation des interfaces :
 * **Développement Full-Stack :** Conception de nouvelles fonctionnalités métiers de bout en bout, en articulant un backend robuste sous Spring Boot et des interfaces dynamiques avec Vue.js.
-* **Architecture & API :** Conception, documentation et optimisation d'API REST pour assurer la communication entre les différents services de l'écosystème, notamment sur le dépôt public [avenirs-cofolio-client](https://github.com/avenirs-cofolio-client).
-* **Intégration d'un Design System :** Utilisation et intégration des composants d'interface réutilisables issus de la bibliothèque de l'organisation ([avenirs-dsav](https://github.com/avenirs-dsav)) pour garantir l'uniformité et la performance du frontend.
+* **Architecture & API :** Conception, documentation et optimisation d'API REST pour assurer la communication entre les différents services de l'écosystème, notamment sur le dépôt public [avenirs-cofolio-client](https://github.com/avenirs-esr/avenirs-cofolio-client).
+* **Intégration d'un Design System :** Utilisation et intégration des composants d'interface réutilisables issus de la bibliothèque de l'organisation ([avenirs-dsav](https://github.com/avenirs-esr/avenirs-dsav)) pour garantir l'uniformité et la performance du frontend.
 
 ---
 
@@ -38,4 +38,4 @@ Développement d'une application web dynamique complète et sur mesure, actuelle
 ### 📬 Me contacter
 
 * **Email :** syphaxfennouch@gmail.com
-* **LinkedIn :** [Linked-in](https://www.://linkedin.com)
+* **LinkedIn :** [https://www.linkedin.com/in/syphax-fennouch-b69ab52a9/](https://www.linkedin.com/in/syphax-fennouch-b69ab52a9/)
